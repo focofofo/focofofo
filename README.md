@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Cabecera.png">
+  <img src="./Cabecera.png" width="" height="100">
 </p>  
 
 <br>
