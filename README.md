@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./Cabecera.png" width="" height="180">
+  <img src="./Cabecera.png">
 </p>  
-
-<br>
 
 
 <h1 align="center">Hi 👋, I'm Sergio</h1>
